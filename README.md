@@ -10,7 +10,7 @@
 
 ###
 
-<h3 align="left">📚 Currently<br>I am deepening my knowledge in backend development and good programming practices.</h3>
+<p align="left">📚 Currently<br>I am deepening my knowledge in backend development and good programming practices.</p>
 
 ###
 
